@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import openml as oml
 import mglearn
+import morelearn
 import os
 from cycler import cycler
 from pprint import pprint
